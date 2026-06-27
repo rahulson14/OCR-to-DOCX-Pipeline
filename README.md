@@ -92,10 +92,3 @@ While highly accurate, the system currently has a few constraints:
 
 * **[PaddleOCR (PP-StructureV3)](https://github.com/PaddlePaddle/PaddleOCR):** An open-source OCR toolkit developed by Baidu, providing multilingual, high-accuracy models for text detection, recognition, and advanced document structure analysis.
 
----
-
-## 👨‍💻 Author
-
-**Rahul Son Boro**  
-Central Institute of Technology Kokrajhar  
-*Developed under the guidance of Mr. Atul Prakash Agarwal & Mr. Anupam Bera at APT Software Avenues Pvt. Ltd.*
